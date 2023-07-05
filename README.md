@@ -1,5 +1,7 @@
 # spotify-template
 
+This is going to be a Spotify music search APP.
+
 ## Project-Overview
 
 This project is a fully functioning website search engine for Spotify. The website will feature a search engine that allows users to search for artists. When an artist is searched, pictures of the respective artists will be loaded. Additionally, the site will provide links to the artists' pages on Spotify, allowing users to easily navigate to their profiles.
@@ -15,10 +17,10 @@ This website will also use authentication of users so not just anyone can access
 
 ## Getting Started
 
-To get started all you need to do is install NodeJS v16. Then run the following:
+To get started all you need to do is install NodeJS v18. Then run the following:
 
   ```node index.js```
 
 ## Links
 
-- to be announced
+- localhost:3001
